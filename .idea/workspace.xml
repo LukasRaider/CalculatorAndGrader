@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0bc2248-e5ec-4c19-b339-614fdde0cc23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorAndGrader/Grader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorAndGrader/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorAndGrader/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorAndGrader/GraderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorAndGrader/SimpleCalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2dfsjkJ9r249OoTBkFkMlH1y52B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.GraderTest.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreeDividedThreeShouldEqualMinusOne.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreeMinusSevenShouldEqualMinusTen.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreeMultipleMinusThreeShouldEqualNine.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreeMultipleThreeShouldEqualMinusNine.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreeMultipleZeroShouldEqualZero.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreePlusMinusSevenShouldEqualFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreePlusMinusSevenShouldEqualMinusTen.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusThreePlusSevenShouldEqualFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.MinusTwoEmpowermentNotEqualMinusFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.PlusNineMultipleZeroShouldEqualZero.executor": "Run",
+    "JUnit.SimpleCalculatorTest.SixMultipleZeroShouldEqualZero.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeDividedMinusSixShouldEqualZero.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeDividedMinusThreeShouldEqualMinusOne.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeDividedMinusThreeShouldEqualOne.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeDividedThreeShouldEqualOne.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeDividedZeroShouldEqualZero (1).executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeDividedZeroShouldEqualZero.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeMinusMinusSevenShouldEqualTen.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeMinusSevenShouldEqualMinusFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeMinusThreeShouldEqualZero.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeMultipleMinusThreeShouldEqualMinusNine.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreeMultipleThreeShouldEqualNine.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreePlusMinusSevenShouldEqualFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreePlusMinusSevenShouldEqualMinusFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.ThreePlusSevenShouldEqualTen.executor": "Run",
+    "JUnit.SimpleCalculatorTest.TwoPlusTwoShouldEqualFour.executor": "Run",
+    "JUnit.SimpleCalculatorTest.executor": "Run",
+    "JUnit.org in CalculatorAndGrader.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Programovani/Testing/SimpleCalculator/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="CalculatorAndGrader" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GraderTest">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="8a111405-0eec-493a-99bf-1e3f2a2d1108" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAndGrader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculatorAndGrader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CalculatorAndGrader" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAndGrader.GraderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAndGrader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculatorAndGrader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CalculatorAndGrader" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAndGrader.SimpleCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.MinusTwoEmpowermentNotEqualMinusFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAndGrader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculatorAndGrader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CalculatorAndGrader" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAndGrader.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="MinusTwoEmpowermentNotEqualMinusFour" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorTest.ThreeDividedZeroShouldEqualZero (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAndGrader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CalculatorAndGrader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CalculatorAndGrader" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAndGrader.SimpleCalculatorTest" />
+      <option name="METHOD_NAME" value="ThreeDividedZeroShouldEqualZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org in CalculatorAndGrader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorAndGrader" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraderTest" />
+        <item itemvalue="JUnit.SimpleCalculatorTest" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.ThreeDividedZeroShouldEqualZero (1)" />
+        <item itemvalue="JUnit.SimpleCalculatorTest.MinusTwoEmpowermentNotEqualMinusFour" />
+        <item itemvalue="JUnit.org in CalculatorAndGrader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0bc2248-e5ec-4c19-b339-614fdde0cc23" name="Changes" comment="" />
+      <created>1710410607839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710410607839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
